@@ -12,4 +12,5 @@
 1. Drafted team contract by using the template and updating it with additional expectations and a new role
 2. Each role was assigned to the teammate who best fit each role
 2. Email to stakeholder was sent out from Andrew Manteau
+    + ![Confimation image](https://github.com/Aryan-Pericharan/F26-ECSE395-axp1295/blob/main/Images/Screenshot%202026-08-28%20145748.png)
 3. Minutes were not taken for the meeeting above but they will be taken going forward
