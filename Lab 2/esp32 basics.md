@@ -12,6 +12,8 @@
 3. Edit the code and then upload to the ESP32 
 4. Change the print word and the frequency of the blinks and re-upload the code
 
+### Note: video of ESP32 working on github in videos folder
+
 ### Reflection
 
 1. How long did it take you to complete this assignment?
