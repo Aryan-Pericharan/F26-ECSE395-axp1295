@@ -16,7 +16,7 @@ void loop() {
   Serial.println("wassup"); 
   // TODO: Set up your delay in milliseconds
   digitalWrite(LED_PIN, HIGH); // LED On
-  delay(500); // Speed in milliseconds
+  delay(800); // Speed in milliseconds
   digitalWrite(LED_PIN, LOW); // LED Off
-  delay(500); // Speed in milliseconds
+  delay(800); // Speed in milliseconds
 }

@@ -4,6 +4,16 @@
 
 ### This is my first assignment working with an ESP32 and I will be making a blinking LED circuit 
 
+### Used VS code with platformIO extension to create a project and upload code to the ESP32 via a USB-C cable 
+
+### Steps
+1. Download the platformIO extension
+2. Create a new project and add the skeleton code for the blink
+3. Edit the code and then upload to the ESP32 
+4. Change the print word and the frequency of the blinks and re-upload the code
+
+### Reflection
+
 1. How long did it take you to complete this assignment?
     + 1 hour and 15 min
 2. What level of difficulty would you associate with this assignment? (Low, Medium, High)
